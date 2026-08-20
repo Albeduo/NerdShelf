@@ -49,10 +49,10 @@ O projeto segue a filosofia **Build-to-Learn** — aprender arquitetura, código
 
 | Camada | Tecnologia |
 |--------|-------------|
-| Frontend | Next.js + React + TypeScript + Tailwind + shadcn/ui |
+| Frontend | Vite + React + TypeScript + Tailwind + shadcn/ui (MUI pontual) |
 | Backend | NestJS + TypeScript + Prisma |
 | Banco | PostgreSQL |
-| Testes | Vitest + Playwright |
+| Testes | Vitest + Cypress |
 | Infra | Docker + GitHub Actions |
 
 ---

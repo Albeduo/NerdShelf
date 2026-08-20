@@ -20,7 +20,7 @@ Cada semana só é considerada concluída quando houver:
 | Fase         | Semanas | Objetivo                    |
 | ------------ | ------: | --------------------------- |
 | Fundação     |     1–2 | Organização e ambiente      |
-| Frontend     |     3–6 | React/Next/Tailwind         |
+| Frontend     |     3–6 | React/Vite/Tailwind         |
 | Backend      |    7–12 | NestJS/PostgreSQL           |
 | Coleção      |   13–16 | Inteligência da coleção     |
 | Catálogo     |   17–22 | APIs externas               |
@@ -49,7 +49,7 @@ Cada semana só é considerada concluída quando houver:
 - Configurar:
   - Node.js
   - pnpm
-  - Next.js
+  - Vite + React
   - TypeScript
   - Tailwind
   - ESLint

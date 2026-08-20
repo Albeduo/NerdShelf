@@ -22,4 +22,4 @@
 -
 
 ## Qual será meu próximo passo?
-- Semana 02 — Ambiente: configurar Node.js, pnpm, Next.js, TypeScript, Tailwind, ESLint, Prettier e Docker. A partir dela, passa a valer o fluxo de branch → Pull Request descrito no `CONTRIBUTING.md` (esta semana foi commitada direto em `main`, conforme definido pelo `ROADMAP.md`).
+- Semana 02 — Ambiente: configurar Node.js, pnpm, Vite + React, TypeScript, Tailwind, ESLint, Prettier e Docker. A partir dela, passa a valer o fluxo de branch → Pull Request descrito no `CONTRIBUTING.md` (esta semana foi commitada direto em `main`, conforme definido pelo `ROADMAP.md`).
