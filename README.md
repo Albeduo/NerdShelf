@@ -1,6 +1,6 @@
 # NerdShelf
 
-NerdShelf é uma plataforma de **gestão de coleções Geek**, criada com o propósito de **aprender engenharia de software enquanto constrói**.
+NerdShelf é uma plataforma de **gestão de coleções**, criada com o propósito de **aprender engenharia de software enquanto constrói**.
 
 ## 🎯 Objetivo
 
@@ -60,7 +60,7 @@ O projeto segue a filosofia **Build-to-Learn** — aprender arquitetura, código
 ## 🎨 Identidade Visual
 
 **Nome:** NerdShelf  
-**Conceito:** Uma estante digital geek que organiza cartas, figures e jogos.  
+**Conceito:** Uma estante digital que organiza cartas, figures e jogos.  
 **Paleta:**
 - Roxo principal: `#6B46C1`
 - Roxo escuro: `#4C1D95`
